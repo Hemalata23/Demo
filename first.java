@@ -5,4 +5,7 @@ class first{
  public String sayhi(){
   return "Hi";
 }
+ publc void(int a, int b){
+  return a+b;
+ }
 }
